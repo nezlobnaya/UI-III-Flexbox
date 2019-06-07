@@ -124,7 +124,7 @@ header img.logo {
 .right-group {
 	/* display: inline-block; */
 }
-
+/*added margin-bottom to content*/
 .top-content {
 	display: flex;
 	flex-flow: row wrap;
