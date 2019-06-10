@@ -124,12 +124,13 @@ header img.logo {
 .right-group {
 	/* display: inline-block; */
 }
-
+/*added margin-bottom to content*/
 .top-content {
 	display: flex;
 	flex-flow: row wrap;
 	justify-content: space-around;
 	padding-bottom: 10px;
+	margin-bottom: 10px;
 	width: 100%;
 }
 
@@ -147,10 +148,12 @@ header img.logo {
 
 .image-content {
 	padding-bottom: 10px;
+	margin-bottom: 10px;
 }
 
 .bottom-content {
 	padding-bottom: 10px;
+	margin-bottom: 10px;
     border-bottom: 1px solid black;
     display: flex;
 	flex-flow: row wrap;
