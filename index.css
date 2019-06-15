@@ -122,7 +122,7 @@ header img.logo {
 
 
 .right-group {
-	/* display: inline-block; */
+	display: flex;
 }
 /*added margin-bottom to content*/
 .top-content {
